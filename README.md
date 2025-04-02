@@ -17,7 +17,7 @@ Card information is sourced from **[Yugipedia](https://yugipedia.com/)**, the Yu
 *Note: Data is collected for educational/non-commercial purposes only.*
 
 ## Usage
-1. Download the `.csv` file.
+1. Download the `.tsv` file. (tab as space)
 2. Import into spreadsheet software (Excel, Google Sheets) or parse programmatically (Python, Pandas, etc.).
 3. Filter/sort by any column (e.g., find all cards from a specific set or rarity).
 
