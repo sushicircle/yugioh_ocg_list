@@ -1,6 +1,6 @@
 # Yu-Gi-Oh! OCG Card Database (2000-2025)
 
-This repository contains a comprehensive `.csv` file documenting all **OCG** Yu-Gi-Oh! cards released between **April 1, 2000**, and **March 1, 2025**.
+This repository contains a comprehensive `.tsv` file documenting all **OCG** Yu-Gi-Oh! cards released between **April 1, 2000**, and **March 1, 2025**.
 
 ## File Contents
 The dataset includes the following fields for each card:
