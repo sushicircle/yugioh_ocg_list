@@ -4,7 +4,7 @@ This repository contains a comprehensive `.tsv` file documenting all **OCG** Yu-
 
 ## File Contents
 The dataset includes the following fields for each card:
-- **Card Number** – card identifier (e.g., `LOB-001`). (duplicates are possible)
+- **Card Number** – card identifier (e.g., `QCCU-JP001`). (duplicates are possible)
 - **English Name** – Localized English card name.
 - **Japanese Name** – Original Japanese card name (日本語名).
 - **Rarity** – Card rarity (e.g., `Ultra Rare`, `Common`).
