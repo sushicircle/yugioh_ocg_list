@@ -22,7 +22,7 @@ Card information is sourced from **[Yugipedia](https://yugipedia.com/)**, the Yu
 3. Filter/sort by any column (e.g., find all cards from a specific set or rarity).
 
 ## Notes
-- Data spans **25 years** of OCG history (2000–2025).
+- Data spans **25 years** of OCG history (2000–2025). (start: WJ from 	01.04.2000 | end: NYC1 from 21.04.2025)
 - Ideal for collectors, deck builders, or data analysis projects.
 - Corrections or additions? Open an **Issue** or **Pull Request**!
 
