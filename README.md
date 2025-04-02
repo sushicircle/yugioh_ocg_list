@@ -24,7 +24,6 @@ Card information is sourced from **[Yugipedia](https://yugipedia.com/)**, the Yu
 ## Notes
 - Data spans **25 years** of OCG history (2000–2025). (start: WJ from 	01.04.2000 | end: NYC1 from 21.04.2025)
 - Ideal for collectors, deck builders, or data analysis projects.
-- Corrections or additions? Open an **Issue** or **Pull Request**!
 
 ## Disclaimer
 - This project is **fan-made** and **not affiliated** with Konami or the Yu-Gi-Oh! franchise.
